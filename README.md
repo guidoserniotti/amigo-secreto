@@ -48,7 +48,9 @@ La aplicación se abrirá y podrás comenzar a:
 
 ## Modificar el proyecto
 Si deseas modificar el proyecto:
-  - Abre los archivos index.html, styles.css o app.js con tu editor de código favorito (Visual Studio Code, Sublime Text, Atom, etc.).
+  - Abre los archivos ```index.html```, ```styles.css``` o ```app.js``` con tu editor de código favorito (Visual Studio Code, Sublime Text, Atom, etc.).
   - Realiza los cambios que desees.
   - Guarda (con Ctrl+S) y recarga la página en el navegador (con F5) para ver los resultados.
-  - ¡Y listo! Ahora puedes usar, modificar y compartir este sencillo organizador de Amigo Secreto como prefieras.
+  - ¡Y listo! Ahora puedes usar, modificar y ***compartir (!)*** este sencillo organizador de Amigo Secreto como prefieras.
+
+Gracias por ver :)
