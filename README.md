@@ -58,3 +58,8 @@ Si deseas modificar el proyecto:
   - ¡Y listo! Ahora puedes usar, modificar y ***compartir (!)*** este sencillo organizador de Amigo Secreto como prefieras.
 
 Gracias por ver :)
+
+## Autor
+Este soy yo 🌴
+<BR>
+<img width="230" height="235" alt="foto mia ig" src="https://github.com/user-attachments/assets/230a4501-c2fc-40f4-9f66-9c4dedc1b847" />
