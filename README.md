@@ -2,6 +2,10 @@
   <img src="https://github.com/user-attachments/assets/83731ecc-03a9-422d-81a4-e1f7c8899e85" alt="Amigo Secreto">
 </p>
 
+## GitHub Pages
+Para jugar YA al juego ingresa a la página de este repositorio :)
+https://guidoserniotti.github.io/amigo-secreto/
+
 ## Funcionalidad
 
 Este proyecto es una aplicación web sencilla desarrollada con **HTML**, **CSS** y **JavaScript**, que permite organizar un sorteo de *Amigo Secreto*. Su funcionamiento es muy simple y amigable para cualquier usuario:
