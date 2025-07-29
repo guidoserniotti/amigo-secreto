@@ -55,3 +55,25 @@ function agregarAmigo(){
         }
     }
 }
+
+// función para elegir el ganador de la lista de amigos cuando se hace click en el botón "Sortear amigo"
+function sortearAmigo(){
+    // Se declara la variable cantidad amigos con el fin de controlar que no se sorteen entre 1 o ninguna persona, y también para definir un máximo y poder generar un número aleatorio válido.
+    let cantidadAmigos = amigos.length
+
+    // Se controla que al menos haya 2 personas entre las cuales sortear el ganador.
+    if (cantidadAmigos<2){
+        alert('No se puede sortear, agrega más amigos.')
+        inputAmigo.focus();
+    }else{
+        // Se utiliza la función floor y random de la clase Math para generar un número aleatorio entero entre 0 y la cantidad de amigos dada por la longitud del array "amigos".
+        // Esto se hace para que este número se utilice de índice, y que no puedan utilizarse índices no válidos en el array.
+        let posicionAmigoGanador = Math.floor(Math.random()*cantidadAmigos);
+
+        // Se guarda en una variable el elemento <ul> con id="resultado"
+        let textoGanador = document.getElementById('resultado');
+
+        // Se le actualiza el texto para que muestre el nombre del amigo ganador.
+        textoGanador.innerHTML = `Ganador: ${amigos[posicionAmigoGanador]}`
+    }
+}
