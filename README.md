@@ -63,3 +63,4 @@ Gracias por ver :)
 Este soy yo 🌴
 <BR>
 <img width="230" height="235" alt="foto mia ig" src="https://github.com/user-attachments/assets/230a4501-c2fc-40f4-9f66-9c4dedc1b847" />
+Este fue mi primer acercamiento a Javascript; funciones, listas, manejo de HTML dinámico, eventos, etc.
