@@ -23,3 +23,32 @@ Para clonar este proyecto en tu máquina local, sigue estos pasos:
 
    ```bash
    git clone https://github.com/guidoserniotti/amigo-secreto
+4. Ingresa a la carpeta del proyecto clonado con el siguiente comando:
+   ```bash
+   cd direccion-de-la-carpeta
+   ```
+   Ejemplo de dirección: C:\Users\usuario\Documentos\amigo-secreto
+   Allí estarán ubicados los archivos del proyecto.
+
+### Nota
+Si tus carpetas intermedias en el directorio tienen espacios en sus nombres, el comando de arriba no funcionará. Asegurate de usar el siguiente:
+  ```bash
+  cd "direccion-de-la-carpeta"
+  ```
+   Ejemplo del comando anterior: cd "C:\Users\usuario\Documentos\carpeta de programacion\amigo-secreto"
+## Ejecutar el proyecto localmente 
+Una vez clonado, puedes abrir y probar la aplicación en tu computadora siguiendo estos pasos:
+  - Asegúrate de tener un navegador web instalado (Chrome, Firefox, Edge, etc.).
+  - Dentro de la carpeta del proyecto, ubica el archivo ```index.html```.
+  - Haz doble clic sobre ```index.html```.
+La aplicación se abrirá y podrás comenzar a:
+  - Escribir los nombres de tus amigos en la caja de texto.
+  - Añadirlos a la lista usando el botón "Añadir".
+  - Realizar el sorteo cuando hayas ingresado todos los nombres.
+
+## Modificar el proyecto
+Si deseas modificar el proyecto:
+  - Abre los archivos index.html, styles.css o app.js con tu editor de código favorito (Visual Studio Code, Sublime Text, Atom, etc.).
+  - Realiza los cambios que desees.
+  - Guarda (con Ctrl+S) y recarga la página en el navegador (con F5) para ver los resultados.
+  - ¡Y listo! Ahora puedes usar, modificar y compartir este sencillo organizador de Amigo Secreto como prefieras.
